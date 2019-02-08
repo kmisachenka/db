@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "conferences": [
+    {
+      "id": 1,
+      "name": "React Iran",
+      "url": "http://reactiran.com",
+      "date": "2019-01-31",
+      "city": "Тегеран",
+      "country": "Иран",
+      "topic": "#javascript"
+    },
+    {
+      "id": 2,
+      "name": "c't <webdev>",
+      "url": "https://ctwebdev.de",
+      "date": "2019-02-06",
+      "city": "Кёльн",
+      "country": "Германия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 3,
+      "name": "Pause Fest",
+      "url": "https://pausefest.com.au/",
+      "date": "2019-02-06",
+      "city": "Мельбурн",
+      "country": "Австралия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 4,
+      "name": "JSConf Hawaii",
+      "url": "https://www.jsconfhi.com",
+      "date": "2019-02-07",
+      "city": "Гаваи",
+      "country": "США",
+      "topic": "#javascript"
+    },
+    {
+      "id": 5,
+      "name": "FrontFest",
+      "url": "https://frontfest.es",
+      "date": "2019-02-09",
+      "city": "Мадрид",
+      "country": "Испания",
+      "topic": "#javascript"
+    },
+    {
+      "id": 6,
+      "name": "Frontend Developer Love",
+      "url": "http://www.frontenddeveloperlove.com/",
+      "date": "2019-02-13",
+      "city": "Амстердам",
+      "country": "Нидерланды",
+      "topic": "#javascript"
+    },
+    {
+      "id": 7,
+      "name": "Vue.js Amsterdam",
+      "url": "https://www.vuejs.amsterdam",
+      "date": "2019-02-14",
+      "city": "Амстердам",
+      "country": "Нидерланды",
+      "topic": "#javascript"
+    },
+    {
+      "id": 8,
+      "name": "Agent Conf",
+      "url": "https://www.agent.sh",
+      "date": "2019-02-21",
+      "city": "Дорнбирн & Лех",
+      "country": "Австрия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 9,
+      "name": "ng-India",
+      "url": "https://www.ng-ind.com",
+      "date": "2019-02-23",
+      "city": "Гургаон",
+      "country": "Индия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 10,
+      "name": "ReactFoo",
+      "url": "https://reactfoo.in/2019",
+      "date": "2019-03-01",
+      "city": "Бангалор",
+      "country": "Индия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 11,
+      "name": "JS Kongress",
+      "url": "https://js-kongress.com",
+      "date": "2019-03-11",
+      "city": "Мюних",
+      "country": "Германия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 12,
+      "name": "EmberConf",
+      "url": "http://emberconf.com",
+      "date": "2019-03-18",
+      "city": "Портленд, Орегон",
+      "country": "США",
+      "topic": "#javascript"
+    },
+    {
+      "id": 13,
+      "name": "UpFront",
+      "url": "http://upfrontconf.com",
+      "date": "2019-03-22",
+      "city": "Манчестер",
+      "country": "Великобритания",
+      "topic": "#javascript"
+    },
+    {
+      "id": 14,
+      "name": "VueConf US",
+      "url": "http://us.vuejs.org",
+      "date": "2019-03-25",
+      "city": "Тампа, Флорида",
+      "country": "США",
+      "topic": "#javascript"
+    },
+    {
+      "id": 15,
+      "name": "Reactathon",
+      "url": "https://www.reactathon.com",
+      "date": "2019-03-30",
+      "city": "Сан-Фринциско, Калифорния",
+      "country": "США",
+      "topic": "#javascript"
+    },
+    {
+      "id": 16,
+      "name": "FrontEnd Fest",
+      "url": "https://frontendfest.io/conference/chicago/2019/04/home",
+      "date": "2019-04-01",
+      "city": "Чикаго, Иллинойс",
+      "country": "США",
+      "topic": "#javascript"
+    },
+    {
+      "id": 17,
+      "name": "#PerfMatters",
+      "url": "https://perfmattersconf.com",
+      "date": "2019-04-02",
+      "city": "Редвуд-Сити, Калифорния",
+      "country": "США",
+      "topic": "#javascript"
+    },
+    {
+      "id": 18,
+      "name": "Frontend NE",
+      "url": "https://2019.frontendne.co.uk",
+      "date": "2019-04-03",
+      "city": "Ньюкасл",
+      "country": "Великобритания",
+      "topic": "#javascript"
+    },
+    {
+      "id": 19,
+      "name": "FrontCon",
+      "url": "https://frontcon.lv",
+      "date": "2019-04-03",
+      "city": "Рига",
+      "country": "Латвия",
+      "topic": "#javascript"
+    },
+    {
+      "id": 20,
+      "name": "YGLF Code Camp Israel",
+      "url": "https://www.israel.yglfconf.com",
+      "date": "2019-04-03",
+      "city": "Nasholim",
+      "country": "Израиль",
+      "topic": "#javascript"
+    },
+    {
+      "id": 21,
+      "name": "App.js Conf",
+      "url": "https://appjs.co/",
+      "date": "2019-04-04",
+      "city": "Краков",
+      "country": "Польша",
+      "topic": "#javascript"
+    },
+    {
+      "id": 22,
+      "name": "JS Fest",
+      "url": "http://jsfest.com.ua/indexe.html",
+      "date": "2019-04-05",
+      "city": "Киев",
+      "country": "Украина",
+      "topic": "#javascript"
+    }
+  ]
+}
